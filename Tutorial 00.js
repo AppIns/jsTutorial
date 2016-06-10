@@ -1,4 +1,3 @@
-
 /*
   To get started with JS you will need a text editor and compiler.
 
